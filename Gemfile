@@ -4,6 +4,6 @@ source "http://rubygems.org"
 gemspec
 
 group :development do
-  gem 'activerecord', '3.1.0.rc6'
-  gem 'activesupport', '3.1.0.rc6'
+  gem 'activerecord', '~> 4.1.0'
+  gem 'activesupport', '~> 4.1.0'
 end
